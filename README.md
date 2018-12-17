@@ -3,8 +3,6 @@
 ### by christian Yeganeh
 A CS425 Game Final Project
 
-[TOC]
-
 ## Game Play:
 
 This game isn't crazy complex or difficult to play. You start out in a mazey looking dungeon. Your goal is to find the hidden treasure chest that is somewhere in the maze. You can traverse the dungeon by moving with either WASD or the Arrow keys. However, beware of the skelentons, because while you are an almost invinsible zombie, skelentons know how to cast magic that can slowly wear down your health. Becare and fight with your rocks, papers, and scissors to out best the skelentons and get to their precious treasure.
