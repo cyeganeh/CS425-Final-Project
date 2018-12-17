@@ -19,8 +19,8 @@ There was a lot of research into methods for creating mazes. In the end, I imple
     
 ## Additional features
 
--Sound/music
--A\* searching for the artificial intelligence
--better more throughly designed UI, possibly including health bars instead of just text. 
+- Sound/music
+- A\* searching for the artificial intelligence
+- better more throughly designed UI, possibly including health bars instead of just text. 
 
 [Video introduction](https://youtu.be/FbCJBwZ2hrA)
