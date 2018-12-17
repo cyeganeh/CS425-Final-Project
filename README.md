@@ -1,6 +1,6 @@
-#Maze Rocky
+# Maze Rocky
 
-###by christian Yeganeh
+### by christian Yeganeh
 A CS425 Game Final Project
 
 [TOC]
