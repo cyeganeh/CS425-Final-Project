@@ -22,3 +22,8 @@ There was a lot of research into methods for creating mazes. In the end, I imple
 - better more throughly designed UI, possibly including health bars instead of just text. 
 
 [Video introduction](https://youtu.be/FbCJBwZ2hrA)
+
+
+## Sources
+
+Many articles lead to the production of the maze generation code, but the one that had the most influence was https://www.raywenderlich.com/82-procedural-generation-of-mazes-with-unity. It's design of a maze generator that also had rooms caught my attention. The layouts also fit more for a wondering game verus other types of mazes where a majority of the time, the mazes are one path with smaller incorrect paths that branch off but eventually end. His code for converting a maze to a mesh was also used, as I could not find a better way to do it myself. 
